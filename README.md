@@ -1,15 +1,15 @@
-### Hello, I'm Shubham: -:wave:
+### Hello, I'm Shubham: :wave:
 
--:hammer: Currently working with ML/AI in PHP 
--:seedling: Gaining experience in:  **FFI **, ** Python **, ** C ** and ** ML/AI** **GUI**. 
-
+- :hammer: Currently working with ML/AI in PHP
+- :seedling: Gaining experience in:  **FFI**, **Python**, **C** and **ML/AI** **GUI**. 
+- :point_right:
 
 
 ### Find me also at:
 [<img align = "left" alt = "ghost jat" width = "22px" src = "https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg" />] [instagram] 
 [<img align = "left" alt = "ghost jat" width = "22px" src = "https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg" />] [linkedin] 
 [<img align = "left" alt = "ghost jat" width = "22px" src = "https://raw.githubusercontent.com/feathericons/feather/master/icons/facebook.svg" />] [facebook]
-[<img align = "left" alt = "ghost jat" width = "22px" src = "https://raw.githubusercontent.com/feathericons/feather/master/icons/twitter.svg "/>] [twitter]
+[<img align = "left" alt = "ghost jat" width = "22px" src = "https://raw.githubusercontent.com/feathericons/feather/master/icons/twitter.svg" />] [twitter]
 <br /> 
 
 ### Languages ​​and Tools: 
@@ -33,13 +33,11 @@
 <img width = "48px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title = "MySQL" />  
 <img width = "48px" src = "https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" title ="Sqlite"/> 
 <br /> 
-<br />
-[github]: https://github.com/ghostjat 
-[twitter]: https://twitter.com/ghost_jat
+
+<img align="left" alt="ghostjat's Github Stats" src="https://github-readme-stats.ghostjat.vercel.app/api?username=ghostjat&show_icons=true&hide_border=true" />
+
+[github]: https://github.com/ghostjat
+[instagram]: https://instagram.com/ghostjat
+[linkedin]: https://www.linkedin.com/in/drshubh
 [facebook]: https://facebook.com/ghostjat
-
-
-<img align = "left" alt = "ghostjat's Github Stats" src = "https://github-readme-stats.ghostjat.vercel.app/api?username=ghostjat&show_icons=true&hide_border=true" /> 
-
-[instagram]: https : //instagram.com/ghostjat 
-[linkedin]: https://www.linkedin.com/in/drshubh/
+[twitter]: https://twitter.com/ghost_jat
