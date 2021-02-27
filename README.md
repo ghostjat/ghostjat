@@ -3,8 +3,8 @@
 ![Those Who Fly Alone Has the strongest winngs](https://scontent.fdel25-1.fna.fbcdn.net/v/t1.0-9/53348999_2538465122895611_1475224504857788416_n.jpg?_nc_cat=102&ccb=2&_nc_sid=19026a&_nc_ohc=RrIZoGgITD4AX_WeYHy&_nc_ht=scontent.fdel25-1.fna&oh=13c54fdadcc7852a4542f6c1e4ba077d&oe=5FD43656)
 
 - :hammer: Currently working with ML/AI in PHP
-- :seedling: Gaining experience in:  **FFI**, **Python**, **C** and **ML/AI** **GUI**. 
-- :point_right:
+- :seedling: Gaining experience in:  **Php**, **FFI**, **Python**, **C**, **ML/AI** **GUI**. 
+- :point_right: **darknet** ,**gtk** binding for php using ffi
 ### Languages ​​and Tools: 
 
 &nbsp; 
@@ -16,7 +16,7 @@
 <br> 
 <img width = "48px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" title = "Tensorflow "/> 
 <img width =" 48px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" title = "OpenCv" /> 
-<img width =" 48px" src = "https://raw.githubusercontent.com/RubixML/RubixML/master/docs/img/rubix-ml-logo.png" title = "RubixMl" /> 
+<img width =" 48px" src = "https://rubixml.com/png/app-icon-small.png" title = "RubixMl" /> 
 <br>
 <img width = "48px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" title = "Linux" /> 
 <img width = "48px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title = "Terminal" /> 
