@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shubham: :wave:
 
-![Those Who Fly Alone Has the strongest winngs](https://scontent.fdel25-1.fna.fbcdn.net/v/t1.0-9/53348999_2538465122895611_1475224504857788416_n.jpg?_nc_cat=102&ccb=2&_nc_sid=19026a&_nc_ohc=RrIZoGgITD4AX_WeYHy&_nc_ht=scontent.fdel25-1.fna&oh=13c54fdadcc7852a4542f6c1e4ba077d&oe=5FD43656)
+<img width= "670px" height = "160px" src = "https://i.pinimg.com/originals/a3/ec/d2/a3ecd2decf54bbb30f9a98c3e208f962.png" />
 
 - :hammer: Currently working with ML/AI in PHP
 - :seedling: Gaining experience in:  **Php**, **FFI**, **Python**, **C**, **ML/AI** **GUI**. 
@@ -17,6 +17,7 @@
 <img width = "48px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" title = "Tensorflow "/> 
 <img width =" 48px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" title = "OpenCv" /> 
 <img width =" 48px" src = "https://rubixml.com/png/app-icon-small.png" title = "RubixMl" /> 
+<img width = "148px" src = "https://github.com/ghostjat/numphp/blob/main/numphp.png" title="Numphp"/>
 <br>
 <img width = "48px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" title = "Linux" /> 
 <img width = "48px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title = "Terminal" /> 
