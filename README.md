@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm Shubham: :wave:
 
-<img width= "670px" height = "160px" src = "https://i.pinimg.com/originals/a3/ec/d2/a3ecd2decf54bbb30f9a98c3e208f962.png" />
+<img width= "990px" height = "360px" src = "https://i.pinimg.com/originals/a3/ec/d2/a3ecd2decf54bbb30f9a98c3e208f962.png" />
 
-- :hammer: Currently working with ML/AI in PHP
-- :seedling: Gaining experience in:  **Php**, **FFI**, **Python**, **C**, **ML/AI** **GUI**. 
-- :point_right: **darknet** ,**gtk** binding for php using ffi
+- 🔨 Currently working with ML/AI in PHP
+- 🌱 Gaining experience in:  **Php**, **FFI**, **Python**, **C**, **ML/AI** **GUI**. 
+- 👉 **darknet** ,**gtk** binding for php using ffi
+- ⚛️ **➡️ [Np(Numerical PHP)](https://github.com/ghostjat/Np), [DarknetPhp](https://github.com/ghostjat/darknet), [IUP-Php](https://github.com/ghostjat/php-iup)**
 ### Languages ​​and Tools: 
 
 &nbsp; 
@@ -17,7 +18,7 @@
 <img width = "48px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" title = "Tensorflow "/> 
 <img width =" 48px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" title = "OpenCv" /> 
 <img width =" 48px" src = "https://rubixml.com/png/app-icon-small.png" title = "RubixMl" /> 
-<img width = "148px" src = "https://github.com/ghostjat/numphp/blob/main/numphp.png" title="Numphp"/>
+[<img width = "148px" src = "https://raw.githubusercontent.com/ghostjat/Np/main/np.png" title="Np"/>](https://github.com/ghostjat/Np)
 <br>
 <img width = "48px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" title = "Linux" /> 
 <img width = "48px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title = "Terminal" /> 
