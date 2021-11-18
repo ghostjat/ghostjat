@@ -2,10 +2,10 @@
 
 <img width= "990px" height = "360px" src = "https://i.pinimg.com/originals/a3/ec/d2/a3ecd2decf54bbb30f9a98c3e208f962.png" />
 
-- 🔨 Currently working with ML/AI in PHP
+- 🔨 Currently working with ML/AI in PHP & trying to port useful libraries to php
 - 🌱 Gaining experience in:  **Php**, **FFI**, **Python**, **C**, **ML/AI** **GUI**. 
 - 👉 **darknet** ,**gtk** binding for php using ffi
-- ⚛️ **➡️ [Np(Numerical PHP)](https://github.com/ghostjat/Np), [DarknetPhp](https://github.com/ghostjat/darknet), [IUP-Php](https://github.com/ghostjat/php-iup)**
+- ⚛️ **➡️ [Gtk(PHP-FFI)](https://github.com/ghostjat/gtk), [Np(Numerical PHP)](https://github.com/ghostjat/Np), [DarknetPhp](https://github.com/ghostjat/darknet), [IUP-Php](https://github.com/ghostjat/php-iup)**
 ### Languages ​​and Tools: 
 
 &nbsp; 
@@ -32,7 +32,7 @@
 
 Skills: PHP / C / JS / HTML / CSS / TensorFlow / OpenCv / FFI
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I am here also. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ghostjat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/drshubh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ghostjat/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ghost_jat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](ghostjat)  
