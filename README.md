@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Shubham: :wave:
+### Hi there 👋, I'm ghost: :wave:
 
 <img width= "990px" height = "360px" src = "https://i.pinimg.com/originals/a3/ec/d2/a3ecd2decf54bbb30f9a98c3e208f962.png" />
 
@@ -17,7 +17,7 @@
 <br> 
 <img width = "48px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" title = "Tensorflow "/> 
 <img width =" 48px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" title = "OpenCv" /> 
-<img width =" 48px" src = "https://rubixml.com/png/app-icon-small.png" title = "RubixMl" /> 
+<img width =" 48px" src = "https://rubix.com/png/app-icon-small.png" title = "Rubix" /> 
 [<img width = "148px" src = "https://raw.githubusercontent.com/ghostjat/Np/main/np.png" title="Np"/>](https://github.com/ghostjat/Np)
 <br>
 <img width = "48px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" title = "Linux" /> 
@@ -30,12 +30,8 @@
 <br /> 
 
 
-Skills: PHP / C / JS / HTML / CSS / TensorFlow / OpenCv / FFI
-
-- 🔭 I am here also. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ghostjat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/drshubh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ghostjat/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ghost_jat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](ghostjat)  
+Skills: PHP / C / JS / HTML / CSS / TensorFlow / OpenCv / FFI / ML 
+ 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostjat&show_icons=true)  
 
