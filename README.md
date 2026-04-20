@@ -3,9 +3,9 @@
 <img width= "990px" height = "360px" src = "https://i.pinimg.com/originals/a3/ec/d2/a3ecd2decf54bbb30f9a98c3e208f962.png" />
 
 - 🔨 Currently working with ML/AI in PHP & trying to port useful libraries to php
-- 🌱 Gaining experience in:  **Php**, **FFI**, **Python**, **C**, **ML/AI** **GUI**. 
+- 🌱 Gaining experience in:  **Php**, **FFI**, **C**, **ML/AI** **GUI**. 
 - 👉 **darknet** ,**gtk** binding for php using ffi
-- ⚛️ **➡️ [Gtk(PHP-FFI)](https://github.com/ghostjat/gtk), [Np(Numerical PHP)](https://github.com/ghostjat/Np), [DarknetPhp](https://github.com/ghostjat/darknet), [IUP-Php](https://github.com/ghostjat/php-iup)**
+- ⚛️ **➡️ [Gtk(PHP-FFI)](https://github.com/ghostjat/gtk), [Np(Numerical PHP)](https://github.com/ghostjat/Np), [DarknetPhp](https://github.com/ghostjat/darknet), [IUP-Php](https://github.com/ghostjat/php-iup), [PML)](https://github.com/ghostjat/pml), **
 ### Languages ​​and Tools: 
 
 &nbsp; 
